@@ -1,0 +1,2 @@
+# chinese2number
+python3写的一个中文数字转纯数字工具
